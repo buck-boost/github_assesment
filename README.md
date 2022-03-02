@@ -1,4 +1,3 @@
 # github_assesment
 Assesment
-I am editing thr README file. Adding some more details about the project descrition
-
+I am editing the README file. Adding some more details about the project description.
